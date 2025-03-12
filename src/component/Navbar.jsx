@@ -37,6 +37,9 @@ function Navbar() {
             Search
           </button>
         </div>
+        <ul>
+          li
+        </ul>
       </div>
     </nav>
   </>
